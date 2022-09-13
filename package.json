@@ -1,0 +1,30 @@
+{
+  "name": "nextjs-intro",
+  "version": "1.0.0",
+  "description": "Introduction to Next.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juliocho990/nextjs-intro.git"
+  },
+  "keywords": [
+    "react",
+    "nextjs"
+  ],
+  "author": "loperabarrientos@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juliocho990/nextjs-intro/issues"
+  },
+  "homepage": "https://github.com/Juliocho990/nextjs-intro#readme",
+  "dependencies": {
+    "next": "^12.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
